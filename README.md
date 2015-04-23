@@ -1,7 +1,7 @@
 ### SWABATS
 ***Students will be able to use responsive design to create web sites that look good on any device, no matter the size***
 
-	+ Responsive Design - Understand how to use percentages max and min to create fluid images and media
+	+Responsive Design - Understand how to use percentages max and min to create fluid images and media
 	+ Responsive Design - understand how to use iOS orientation bug fix
 	+ Responsive Design - understand how to use Modernizr to handle cross-browser compatibility
 	+ Responsive Design - understand how to use js media query fix
