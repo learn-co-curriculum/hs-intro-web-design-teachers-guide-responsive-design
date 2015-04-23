@@ -1,15 +1,15 @@
 ### SWABATS
 ***Students will be able to use responsive design to create web sites that look good on any device, no matter the size***
 
-	* Responsive Design - Understand how to use percentages max and min to create fluid images and media
-	+ Responsive Design - understand how to use iOS orientation bug fix
-	+ Responsive Design - understand how to use Modernizr to handle cross-browser compatibility
-	+ Responsive Design - understand how to use js media query fix
-	+ Responsive Design - Understand how to user viewports to ensure that site scales properly on devices
-	+ Responsive Design - understand how to modify type/text with media queries, including column count and size (percentage)
-	+ Responsive Design - Understand the benefits of responsive layout
-	+ Responsive Design - Understand how to use CSS3 media queries - best support for all, print and screen for now
-	+ Responsive Design - Understand the options for Desktop Down vs. Mobile Up
++ Responsive Design - Understand how to use percentages max and min to create fluid images and media
++ Responsive Design - understand how to use iOS orientation bug fix
++ Responsive Design - understand how to use Modernizr to handle cross-browser compatibility
++ Responsive Design - understand how to use js media query fix
++ Responsive Design - Understand how to user viewports to ensure that site scales properly on devices
++ Responsive Design - understand how to modify type/text with media queries, including column count and size (percentage)
++ Responsive Design - Understand the benefits of responsive layout
++ Responsive Design - Understand how to use CSS3 media queries - best support for all, print and screen for now
++ Responsive Design - Understand the options for Desktop Down vs. Mobile Up
 
 ### Motivation
 I spend a lot of time on my iPhone and one of my biggest pet peeves is when I click on a link from an email or try to google something and the website that I go to asks me to download an app OR the page looks so cluttered and the text is so tiny that I can’t find what I’m looking for. I don’t want to download your stupid app! I just want to go to a site that looks good on my phone and works. That is what responsive web design is all about. Making websites that look good across screens and devices so people can view your page from the device of their choice.
