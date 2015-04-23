@@ -1,5 +1,5 @@
 ### SWABATS
-*** Students will be able to use responsive design to create web sites that look good on any device, no matter the size***
+***Students will be able to use responsive design to create web sites that look good on any device, no matter the size***
 	+ Responsive Design - Understand how to use percentages max and min to create fluid images and media
 	+ Responsive Design - understand how to use iOS orientation bug fix
 	+ Responsive Design - understand how to use Modernizr to handle cross-browser compatibility
@@ -134,5 +134,5 @@ I spend a lot of time on my iPhone and one of my biggest pet peeves is when I cl
 		+ http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js
 		+ `<script src="http://css3-mediaqueries-		+ js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>`
 	+ You can also get a media queries fix when you download Modernizr:
-	
+
 <img src="https://s3.amazonaws.com/after-school-assets/responsive_design2.png">
