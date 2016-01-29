@@ -138,4 +138,4 @@ I spend a lot of time on my iPhone and one of my biggest pet peeves is when I cl
 
 <img src="https://s3.amazonaws.com/after-school-assets/responsive_design2.png">
 
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-responsive-design' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-responsive-design' title='SWABATS'>SWABATS</a> on Learn.co and start learning to code for free.</p>
